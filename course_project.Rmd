@@ -1,0 +1,30 @@
+---
+title: "Developing Data Products - Week 3 Course Project"
+author: "Ruzaini Amiraa Roslan"
+date: "9/14/2020"
+output: html_document
+---
+
+# Overview
+This markdown document is created as part of the Week 3 course project on Coursera’s Developing Data Products. This will implement the use of the R package plotly to display a plot of popular books on [Goodreads](https://www.goodreads.com/) based on average user ratings and genre.
+
+# Popular Books on Goodreads Based on Average User Ratings and Genre
+
+```{r echo=TRUE}
+library(plotly)
+library(ggplot2)
+
+df <- read.csv("books.csv")
+df$genre <- as.factor(df$genre)
+
+# Plot ratings against genre
+a <- ggplot(df, aes(title, rating, 
+               col = genre)) +
+  geom_point(aes(size = genre), alpha = 0.6) +
+  theme(axis.text.x = element_blank(), legend.position = "none") +
+  labs(title = "Ratings of each book", x = "Books", y = "Ratings",
+       subtitle = "Which genre has the book with the highest rating?",
+       col = "Genre", size = "Genre")
+
+ggplotly(a)
+```

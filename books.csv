@@ -1,0 +1,501 @@
+title,author,rating,votes,year,times.shelved,genre,adapt,rating.adapt,votes.adapt,year.adapt,type.adapt
+The Diary of a Young Girl,Anne Frank,4.15,2654438,1947,5509,Biography,Yes,7.4,11708,1959,Movie
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.37,741594,2010,3606,Biography,Yes,7.2,141408,2014,Movie
+John Adams,David McCullough,4.06,300800,2001,3301,Biography,Yes,8.5,27179,2008,TV
+"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Ashlee Vance,4.23,218715,2015,2982,Biography,No,NA,NA,NA,NA
+Becoming,Michelle Obama,4.55,489395,2018,2917,Biography,Yes,6.8,4279,2020,Movie
+Bossypants,Tina Fey,3.95,826097,2011,2897,Biography,No,NA,NA,NA,NA
+Alexander Hamilton,Ron Chernow,4.22,117150,2004,2861,Biography,Yes,9,16104,2020,Movie
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,4.07,567756,2010,2859,Biography,Yes,6.3,3011,2017,TV
+Einstein: His Life and Universe,Walter Isaacson,4.13,126782,2007,2818,Biography,No,NA,NA,NA,NA
+Into the Wild,Jon Krakauer,3.98,857088,1996,2527,Biography,Yes,8.1,556532,2007,Movie
+Educated,Tara Westover,4.47,701574,2018,2459,Biography,No,NA,NA,NA,NA
+I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,Malala Yousafzai,4.12,397891,2012,2304,Biography,No,NA,NA,NA,NA
+Born a Crime: Stories From a South African Childhood,Trevor Noah,4.45,343002,2016,2299,Biography,No,NA,NA,NA,NA
+The Autobiography of Malcolm X,Malcolm X,4.32,191895,1965,2220,Biography,Yes,7.7,82547,1992,Movie
+Benjamin Franklin: An American Life,Walter Isaacson,4,109620,2003,2141,Biography,No,NA,NA,NA,NA
+"""Surely You're Joking, Mr. Feynman!"": Adventures of a Curious Character",Richard P. Feynman,4.28,149725,1985,1986,Biography,No,NA,NA,NA,NA
+Night,Elie Wiesel,4.33,945958,1956,1918,Biography,No,NA,NA,NA,NA
+Leonardo da Vinci,Walter Isaacson,4.17,52428,2017,1891,Biography,No,NA,NA,NA,NA
+Yes Please,Amy Poehler,3.83,415901,2014,1762,Biography,No,NA,NA,NA,NA
+Cleopatra: A Life,Stacy Schiff,3.68,96346,2010,1732,Biography,Yes,NA,239141,2012,NA
+Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,4.29,146048,2005,1732,Biography,No,7.3,NA,NA,Movie
+The Glass Castle,Jeannette Walls,4.28,877258,2005,1684,Biography,Yes,NA,27858,2017,Movie
+The Glass Castle,Jeannette Walls,4.28,877258,2005,1684,Biography,Yes,7.1,27858,2017,Movie
+Catherine the Great: Portrait of a Woman,Robert K. Massie,3.92,92333,2011,1634,Biography,No,7.1,NA,NA,NA
+"Bonhoeffer: Pastor, Martyr, Prophet, Spy",Eric Metaxas,4.22,55622,2009,1622,Biography,No,NA,NA,NA,NA
+I Know Why the Caged Bird Sings,Maya Angelou,4.23,392052,1969,1589,Biography,No,NA,NA,NA,TV
+Washington: A Life,Ron Chernow,4.1,51080,2010,1587,Biography,Yes,NA,250,1979,NA
+When Breath Becomes Air,Paul Kalanithi,4.36,391828,2016,1584,Biography,Yes,7.2,NA,2015,Other - Online Documentary
+Angela's Ashes,Frank McCourt,4.11,527669,1996,1579,Biography,Yes,NA,19802,1999,Movie
+The Rise of Theodore Roosevelt,Edmund Morris,4.24,41183,1979,1540,Biography,No,7.3,NA,NA,NA
+The Autobiography of Benjamin Franklin,Benjamin Franklin,3.83,65939,1791,1498,Biography,No,NA,NA,NA,NA
+Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,4.01,595228,2012,1403,Biography,Yes,NA,116902,2014,Movie
+Dreams from My Father: A Story of Race and Inheritance,Barack Obama,3.89,185772,1995,1370,Biography,No,7.1,NA,NA,NA
+The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.43,248127,1971,1356,Biography,Yes,NA,1722,1977,Movie
+The Wright Brothers,David McCullough,4.15,70637,2015,1355,Biography,No,7.5,NA,NA,NA
+Long Walk to Freedom,Nelson Mandela,4.34,63928,1994,1354,Biography,Yes,NA,25967,2013,Movie
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,3.93,286153,2016,1289,Biography,Yes,7.1,NA,2020,Movie
+Shoe Dog: A Memoir by the Creator of NIKE,Phil Knight,4.49,130582,2016,1226,Biography,No,NA,NA,NA,NA
+"Eat, Pray, Love",Elizabeth Gilbert,3.56,1441358,2006,1186,Biography,Yes,NA,85229,2010,Movie
+"Titan: The Life of John D. Rockefeller, Sr.",Ron Chernow,4.2,18818,1998,1177,Biography,No,5.8,NA,NA,NA
+Is Everyone Hanging Out Without Me?,Mindy Kaling,3.86,409792,2011,1175,Biography,No,NA,NA,NA,NA
+Narrative of the Life of Frederick Douglass,Frederick Douglass,4.03,89921,1845,1135,Biography,No,NA,NA,NA,NA
+Tuesdays with Morrie,Mitch Albom,4.11,760104,1997,1111,Biography,Yes,7.5,4177,1999,TV
+Notorious RBG: The Life and Times of Ruth Bader Ginsburg,Irin Carmon,4.21,39093,2015,1076,Biography,No,NA,NA,NA,NA
+Thomas Jefferson: The Art of Power,Jon Meacham,4.02,28837,2012,1068,Biography,No,NA,NA,NA,NA
+Man's Search for Meaning,Viktor E. Frankl,4.36,369658,1946,1063,Biography,No,NA,NA,NA,NA
+Theodore Rex,Edmund Morris,4.19,40958,2001,1062,Biography,No,NA,NA,NA,NA
+Grant,Ron Chernow,4.53,18393,2017,1060,Biography,No,NA,NA,NA,NA
+Just Kids,Patti Smith,4.16,171809,2010,1044,Biography,No,NA,NA,NA,NA
+A Beautiful Mind,Sylvia Nasar,4.13,120626,1998,1028,Biography,Yes,8.2,821785,2001,Movie
+The Girl with the Dragon Tattoo,Stieg Larsson,4.14,2542430,2005,3982,Crime,Yes,7.8,205277,2009,Movie
+The Girl Who Played with Fire,Stieg Larsson,4.24,793401,2006,2771,Crime,Yes,7.2,89088,2009,Movie
+Gone Girl,Gillian Flynn,4.07,2259214,2012,2720,Crime,Yes,8.1,825586,2014,Movie
+The Girl Who Kicked the Hornet's Nest,Stieg Larsson,4.22,631737,2007,2418,Crime,Yes,7.3,66442,2009,Movie
+And Then There Were None,Agatha Christie,4.26,775425,1939,2402,Crime,Yes,8,30267,2015,TV
+The Girl on the Train,Paula Hawkins,3.92,2030573,2015,2346,Crime,Yes,6.5,163662,2016,Movie
+The Cuckoo's Calling,Robert Galbraith,3.87,466146,2013,2179,Crime,Yes,8.1,2050,2018,TV
+In Cold Blood,Truman Capote,4.07,509988,1965,2019,Crime,Yes,7.9,23310,1967,Movie
+Murder on the Orient Express,Agatha Christie,4.17,358392,1934,2010,Crime,Yes,7.3,53550,1974,Movie
+Sharp Objects,Gillian Flynn,3.97,643678,2006,1638,Crime,Yes,8.2,62251,2018,TV
+A Study in Scarlet,Arthur Conan Doyle,4.16,312049,1887,1520,Crime,Yes,9.1,27345,2010,TV
+Dark Places,Gillian Flynn,3.94,556814,2009,1467,Crime,Yes,6.2,40762,2015,Movie
+In the Woods,Tana French,3.77,292123,2007,1411,Crime,Yes,7.1,4854,2019,TV
+The Silkworm,Robert Galbraith,4.04,208982,2014,1407,Crime,Yes,7.95,869,2017,TV
+The Godfather,Mario Puzo,4.37,323556,1969,1355,Crime,Yes,9.2,1558878,1972,Movie
+The Silence of the Lambs,Thomas  Harris,4.2,450493,1988,1321,Crime,Yes,8.6,1223657,1991,Movie
+Red Dragon,Thomas  Harris,4.03,264283,1981,1259,Crime,Yes,7.2,244298,2002,Movie
+The Hound of the Baskervilles,Arthur Conan Doyle,4.12,245366,1901,1194,Crime,Yes,7,8844,1959,Movie
+The Da Vinci Code,Dan Brown,3.85,1885414,2003,1159,Crime,Yes,6.6,390738,2006,Movie
+The Murder of Roger Ackroyd,Agatha Christie,4.25,142123,1926,1142,Crime,Yes,7.3,1669,2000,TV
+The Mysterious Affair at Styles,Agatha Christie,3.99,239268,1920,1131,Crime,Yes,7.9,1504,1990,TV
+The Big Sleep,Raymond Chandler,4,119121,1939,1108,Crime,Yes,7.9,77115,1946,Movie
+Career of Evil,Robert Galbraith,4.21,157326,2015,1095,Crime,Yes,8.05,724,2018,Movie
+Assuming Names: A Con Artist's Masquerade,Tanya Thompson,3.8,25969,2014,1094,Crime,No,NA,NA,NA,NA
+"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,4,501459,2003,1063,Crime,Yes,5.1,56053,2017,Movie
+The Snowman,Jo Nesbø,4.01,104605,2007,1061,Crime,No,NA,NA,NA,NA
+Angels & Demons,Dan Brown,3.9,2613161,2000,1045,Crime,Yes,6.7,266371,2009,Movie
+I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer,Michelle McNamara,4.14,136662,2018,1041,Crime,Yes,6.5,351,2020,TV
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,4.3,235191,1892,1037,Crime,Yes,8.7,19138,1984,TV
+Flaggermusmannen,Jo Nesbø,3.54,80332,1997,1004,Crime,No,NA,NA,NA,NA
+Death on the Nile,Agatha Christie,4.11,115977,1937,1001,Crime,Yes,8,2700,2004,TV
+Killing Floor,Lee Child,4.05,239699,1997,915,Crime,No,NA,NA,NA,NA
+The Sign of Four,Arthur Conan Doyle,3.94,102226,1890,904,Crime,Yes,8.1,3330,1988,TV
+Postmortem,Patricia Daniels Cornwell,4.02,206127,1990,902,Crime,No,NA,NA,NA,NA
+The Redbreast,Jo Nesbø,3.93,83500,2000,892,Crime,No,NA,NA,NA,NA
+The Dry,Jane Harper,4.03,143478,2016,877,Crime,Yes,NA,NA,2020,Movie
+Déjà Dead,Kathy Reichs,3.87,128215,1997,876,Crime,Yes,7.8,134949,2005,TV
+Darkly Dreaming Dexter,Jeff Lindsay,3.9,182766,2004,869,Crime,Yes,8.6,625851,2006,TV
+The A.B.C. Murders,Agatha Christie,4.02,92761,1936,848,Crime,Yes,6.6,7431,2018,TV
+The Lovely Bones,Alice Sebold,3.81,1975998,2002,846,Crime,Yes,6.7,153565,2009,Movie
+The Surgeon,Tess Gerritsen,4.1,127177,2001,844,Crime,Yes,7.6,28836,2010,TV
+Mr. Mercedes,Stephen King,3.97,227344,2014,831,Crime,Yes,7.9,14722,2017,TV
+The Black Echo,Michael Connelly,4.1,148356,1992,825,Crime,No,NA,NA,NA,NA
+The Zombie Room,R.D. Ronald,4.14,55479,2012,823,Crime,No,NA,NA,NA,NA
+The Black Dahlia,James Ellroy,3.76,78514,1987,796,Crime,Yes,5.6,70389,2006,Movie
+Rivers of London,Ben Aaronovitch,3.87,86247,2011,785,Crime,No,NA,NA,NA,NA
+Along Came a Spider,James Patterson,4.11,391711,1993,783,Crime,Yes,6.4,74007,2001,Movie
+The Elephant Tree,R.D. Ronald,4.12,54171,2010,760,Crime,No,NA,NA,NA,NA
+Helter Skelter: The True Story of the Manson Murders,Vincent Bugliosi,4.04,121053,1974,745,Crime,Yes,7.4,3270,1976,TV
+Murder at the Vicarage,Agatha Christie,4.06,138981,1930,733,Crime,Yes,7.3,1497,2004,TV
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.47,6801692,1997,60042,Fantasy,Yes,7.6,618908,2001,Movie
+Harry Potter and the Chamber of Secrets,J.K. Rowling,4.43,2632214,1998,50307,Fantasy,Yes,7.4,531340,2002,Movie
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,4.27,2813782,1937,50196,Fantasy,Yes,7.67,1793399,2012,Movie
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.57,2701079,1999,49973,Fantasy,Yes,7.9,528594,2004,Movie
+Harry Potter and the Goblet of Fire,J.K. Rowling,4.56,2507462,2000,48449,Fantasy,Yes,7.7,526201,2005,Movie
+Harry Potter and the Deathly Hallows,J.K. Rowling,4.62,2723322,2007,46834,Fantasy,Yes,7.9,1196958,2010,Movie
+Harry Potter and the Order of the Phoenix,J.K. Rowling,4.5,2427330,2003,46641,Fantasy,Yes,7.5,489839,2007,Movie
+Harry Potter and the Half-Blood Prince,J.K. Rowling,4.57,2361600,2005,46563,Fantasy,Yes,7.6,453949,2009,Movie
+A Game of Thrones,George R.R. Martin,4.45,1952469,1996,44174,Fantasy,Yes,9.1,302406,2011,TV
+The Fellowship of the Ring,J.R.R. Tolkien,4.36,2303030,1954,39037,Fantasy,Yes,8.8,1609372,2001,Movie
+A Clash of Kings,George R.R. Martin,4.41,770786,1998,31538,Fantasy,Yes,8.96,257640,2012,TV
+The Name of the Wind,Patrick Rothfuss,4.54,688159,2007,28293,Fantasy,No,NA,NA,NA,NA
+The Two Towers,J.R.R. Tolkien,4.44,695136,1954,28190,Fantasy,Yes,8.7,1440376,2002,Movie
+The Return of the King,J.R.R. Tolkien,4.53,658732,1955,26959,Fantasy,Yes,8.9,1594054,2003,Movie
+A Storm of Swords,George R.R. Martin,4.54,651785,2000,26326,Fantasy,Yes,9.05,309052,2013,TV
+A Feast for Crows,George R.R. Martin,4.14,606501,2005,25657,Fantasy,Yes,9.31,341457,2014,TV
+"The Lion, the Witch and the Wardrobe",C.S. Lewis,4.22,2070081,1950,24428,Fantasy,Yes,6.9,356954,2005,Movie
+The Golden Compass,Philip Pullman,3.98,1253753,1995,23927,Fantasy,Yes,6.1,175967,2007,Movie
+Eragon,Christopher Paolini,3.9,1401826,2002,22992,Fantasy,Yes,5.1,120401,2006,Movie
+A Dance with Dragons,George R.R. Martin,4.33,542558,2011,22305,Fantasy,Yes,8.83,335166,2015,TV
+The Final Empire,Brandon Sanderson,4.45,379960,2006,22201,Fantasy,No,NA,NA,NA,NA
+The Lightning Thief,Rick Riordan,4.25,1920210,2005,21543,Fantasy,Yes,5.9,173161,2010,Movie
+American Gods,Neil Gaiman,4.11,737138,2001,21176,Fantasy,Yes,7.8,69972,2017,TV
+City of Bones,Cassandra Clare,4.1,1575791,2007,18010,Fantasy,Yes,5.9,125652,2013,Movie
+Twilight,Stephenie Meyer,3.59,4835716,2005,17704,Fantasy,Yes,5.2,413317,2008,Movie
+Stardust,Neil Gaiman,4.09,347036,1997,17195,Fantasy,Yes,7.6,248455,2007,Movie
+The Eye of the World,Robert Jordan,4.18,375376,1990,17091,Fantasy,Yes,NA,NA,NA,TV
+Throne of Glass,Sarah J. Maas,4.21,559268,2012,16987,Fantasy,No,NA,NA,NA,NA
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,4.25,519501,1990,16946,Fantasy,Yes,8.1,51617,2019,TV
+The Night Circus,Erin Morgenstern,4.04,656319,2011,16771,Fantasy,No,NA,NA,NA,NA
+Neverwhere,Neil Gaiman,4.17,416338,1996,16751,Fantasy,Yes,7.2,2598,1996,TV
+The Wise Man's Fear,Patrick Rothfuss,4.57,410843,2011,16546,Fantasy,No,NA,NA,NA,NA
+The Lord of the Rings,J.R.R. Tolkien,4.5,549802,1955,16385,Fantasy,Yes,8.8,4643802,2001,Movie
+Six of Crows,Leigh Bardugo,4.45,276924,2015,15560,Fantasy,Yes,NA,NA,2020,TV
+The Ocean at the End of the Lane,Neil Gaiman,4,466140,2013,15149,Fantasy,No,NA,NA,NA,NA
+Graceling,Kristin Cashore,4.08,373461,2008,14861,Fantasy,No,NA,NA,NA,NA
+The Princess Bride,William Goldman,4.26,762000,1973,14723,Fantasy,Yes,8.1,382135,1987,Movie
+A Darker Shade of Magic,V.E. Schwab,4.08,183939,2015,14629,Fantasy,No,NA,NA,NA,NA
+Harry Potter and the Cursed Child: Parts One and Two,John Tiffany,4.08,183939,2015,14629,Fantasy,Yes,NA,NA,2016,Other - Stage
+The Lies of Locke Lamora,Scott Lynch,3.63,668183,2016,14516,Fantasy,No,NA,NA,NA,NA
+A Court of Thorns and Roses,Sarah J. Maas,4.3,208473,2006,14503,Fantasy,No,NA,NA,NA,NA
+The Way of Kings,Brandon Sanderson,4.24,426384,2015,14456,Fantasy,No,NA,NA,NA,NA
+Shadow and Bone,Leigh Bardugo,4.65,281931,2010,14405,Fantasy,Yes,NA,NA,2020,TV
+The Color of Magic,Terry Pratchett,4.01,281188,2012,14369,Fantasy,Yes,7.1,8978,2008,TV
+The Subtle Knife,Philip Pullman,3.99,306142,1983,14349,Fantasy,Yes,7.9,35650,2019,TV
+Assassin's Apprentice,Robin Hobb,4.14,354027,1997,14265,Fantasy,No,NA,NA,NA,NA
+The Well of Ascension,Brandon Sanderson,4.16,225632,1995,14252,Fantasy,Yes,NA,NA,NA,NA
+The Sea of Monsters,Rick Riordan,4.37,269175,2007,14061,Fantasy,Yes,5.8,107681,2013,Movie
+Uprooted,Naomi Novik,4.24,716705,2006,14032,Fantasy,No,NA,NA,NA,NA
+The Silmarillion,J.R.R. Tolkien,4.08,154474,2015,13472,Fantasy,No,NA,NA,NA,NA
+The Book Thief,Markus Zusak,4.37,1777231,2005,18462,Historical Fiction,Yes,7.6,124630,2013,Movie
+All the Light We Cannot See,Anthony Doerr,4.33,976867,2014,13778,Historical Fiction,No,NA,NA,NA,NA
+Outlander,Diana Gabaldon,4.23,797401,1991,10758,Historical Fiction,Yes,8.8,66212,2014,TV
+The Help,Kathryn Stockett,4.47,2104988,2009,10682,Historical Fiction,Yes,8.1,416835,2011,Movie
+The Nightingale,Kristin Hannah,4.58,654342,2015,10196,Historical Fiction,Yes,NA,NA,NA,Movie
+The Pillars of the Earth,Ken Follett,4.32,631795,1989,9748,Historical Fiction,Yes,8.1,27994,2010,TV
+Memoirs of a Geisha,Arthur Golden,4.12,1686352,1997,8992,Historical Fiction,Yes,7.4,135856,2005,Movie
+The Other Boleyn Girl,Philippa Gregory,4.06,450545,2001,8495,Historical Fiction,Yes,6.7,101426,2008,Movie
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.17,592855,2008,8272,Historical Fiction,Yes,7.4,30675,2018,Movie
+To Kill a Mockingbird,Harper Lee,4.28,4373488,1960,6593,Historical Fiction,Yes,8.2,287144,1962,Movie
+Gone with the Wind,Margaret Mitchell,4.3,1057400,1936,6148,Historical Fiction,Yes,8.1,281464,1939,Movie
+Girl with a Pearl Earring,Tracy Chevalier,3.89,613679,2000,6059,Historical Fiction,Yes,6.9,70894,2003,Movie
+Between Shades of Gray,Ruta Sepetys,4.37,157176,2011,6002,Historical Fiction,Yes,6.6,5038,2018,Movie
+Dragonfly in Amber,Diana Gabaldon,4.32,278592,1992,5892,Historical Fiction,Yes,8.9,33668,2016,TV
+Wolf Hall,Hilary Mantel,3.88,157068,2009,5876,Historical Fiction,Yes,8.1,9138,2015,TV
+Code Name Verity,Elizabeth Wein,4.05,91617,2012,5758,Historical Fiction,No,NA,NA,NA,NA
+Water for Elephants,Sara Gruen,4.09,1352304,2006,5662,Historical Fiction,Yes,6.9,109220,2011,Movie
+The Boy in the Striped Pajamas,John Boyne,4.15,493053,2006,5631,Historical Fiction,Yes,7.8,184511,2008,Movie
+Salt to the Sea,Ruta Sepetys,4.36,115230,2016,5566,Historical Fiction,No,NA,NA,NA,NA
+Number the Stars,Lois Lowry,4.15,433202,1989,5523,Historical Fiction,No,NA,NA,NA,NA
+The Kite Runner,Khaled Hosseini,4.3,2363581,2003,5470,Historical Fiction,Yes,7.6,76378,2007,Movie
+The Red Tent,Anita Diamant,4.18,511079,1997,5381,Historical Fiction,Yes,7.3,3227,2014,TV
+The Underground Railroad,Colson Whitehead,4.03,272258,2016,5235,Historical Fiction,No,NA,NA,NA,NA
+Sarah's Key,Tatiana de Rosnay,4.16,412879,2006,5164,Historical Fiction,Yes,7.5,15763,2010,Movie
+Voyager,Diana Gabaldon,4.39,247902,1993,4888,Historical Fiction,Yes,8.9,29977,2017,TV
+The White Queen,Philippa Gregory,3.93,152560,2009,4837,Historical Fiction,Yes,7.8,22581,2013,TV
+A Gentleman in Moscow,Amor Towles,4.35,265038,2016,4810,Historical Fiction,No,NA,NA,NA,NA
+Orphan Train,Christina Baker Kline,4.17,363576,2013,4776,Historical Fiction,No,NA,NA,NA,NA
+The Alice Network,Kate Quinn,4.27,217980,2017,4769,Historical Fiction,No,NA,NA,NA,NA
+Fall of Giants,Ken Follett,4.29,257457,2010,4673,Historical Fiction,No,NA,NA,NA,NA
+The Song of Achilles,Madeline Miller,4.35,198467,2011,4593,Historical Fiction,No,NA,NA,NA,NA
+World Without End,Ken Follett,4.27,190848,2007,4494,Historical Fiction,Yes,7,7841,2012,TV
+The Shadow of the Wind,Carlos Ruiz Zafón,4.27,441744,2001,4371,Historical Fiction,No,NA,NA,NA,NA
+Snow Flower and the Secret Fan,Lisa See,4.07,335303,2005,4299,Historical Fiction,Yes,6.1,3519,2011,Movie
+The Constant Princess,Philippa Gregory,3.9,147624,2005,4290,Historical Fiction,Yes,6.8,3160,2019,TV
+The Tattooist of Auschwitz,Heather   Morris,4.26,409142,2018,4221,Historical Fiction,No,NA,NA,NA,NA
+Drums of Autumn,Diana Gabaldon,4.34,198839,1996,4177,Historical Fiction,Yes,8.8,19722,2018,TV
+The Invention of Wings,Sue Monk Kidd,4.24,256608,2014,4150,Historical Fiction,No,NA,NA,NA,NA
+Before We Were Yours,Lisa Wingate,4.38,343387,2017,4070,Historical Fiction,No,NA,NA,NA,NA
+Lilac Girls,Martha Hall Kelly,4.29,198228,2016,4056,Historical Fiction,No,NA,NA,NA,NA
+The Name of the Rose,Umberto Eco,4.12,290283,1980,4038,Historical Fiction,Yes,7.7,98829,1986,Movie
+Pachinko,Min Jin Lee,4.27,186189,2017,3998,Historical Fiction,No,NA,NA,NA,NA
+Year of Wonders,Geraldine Brooks,4.01,132524,2001,3981,Historical Fiction,No,NA,NA,NA,NA
+A Thousand Splendid Suns,Khaled Hosseini,4.37,1117595,2007,3978,Historical Fiction,No,NA,NA,NA,NA
+The Paris Wife,Paula McLain,3.81,260242,2011,3923,Historical Fiction,No,NA,NA,NA,NA
+The Gentleman's Guide to Vice and Virtue,Mackenzi Lee,4.12,83206,2017,3847,Historical Fiction,No,NA,NA,NA,NA
+The Boleyn Inheritance,Philippa Gregory,3.87,81038,2006,3822,Historical Fiction,No,NA,NA,NA,NA
+Atonement,Ian McEwan,3.91,431294,2001,3780,Historical Fiction,Yes,7.8,241641,2007,Movie
+Homegoing,Yaa Gyasi,4.43,155342,2016,3707,Historical Fiction,Yes,8.4,73405,2015,TV
+The Last Kingdom,Bernard Cornwell,4.26,70258,2004,3699,Historical Fiction,No,NA,NA,NA,NA
+The Shining,Stephen King,4.23,1089256,1977,14665,Horror,Yes,8.4,860493,1980,Movie
+It,Stephen King,4.24,772421,1986,12714,Horror,Yes,6.95,621578,2017,Movie
+Dracula,Bram Stoker,4,907025,1897,10630,Horror,Yes,7.4,185742,1992,Movie
+Carrie,Stephen King,3.96,501842,1974,10088,Horror,Yes,7.4,162696,1976,Movie
+Pet Sematary,Stephen King,3.99,408477,1983,9362,Horror,Yes,5.7,74910,2019,Movie
+Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.8,1131460,1818,8895,Horror,Yes,6.4,50012,1994,Movie
+'Salem's Lot,Stephen King,4.02,322692,1975,8655,Horror,Yes,6.8,19849,1979,TV
+The Stand,Stephen King,4.34,597379,1978,8461,Horror,Yes,7.2,31016,1994,TV
+Misery,Stephen King,4.17,479580,1987,7793,Horror,Yes,7.8,177643,1990,Movie
+The Haunting of Hill House,Shirley Jackson,3.84,148054,1959,7550,Horror,Yes,7.5,33451,1963,Movie
+World War Z: An Oral History of the Zombie War,Max Brooks,4.01,426738,2006,5579,Horror,Yes,7,586880,2013,Movie
+Interview with the Vampire,Anne Rice,4,472810,1976,5491,Horror,Yes,7.6,287639,1994,Movie
+Doctor Sleep,Stephen King,4.12,185022,2013,5304,Horror,Yes,7.4,110600,2019,Movie
+Cujo,Stephen King,3.72,219547,1981,5019,Horror,Yes,6.1,38039,1983,Movie
+House of Leaves,Mark Z. Danielewski,4.07,123462,2000,4806,Horror,No,NA,NA,NA,NA
+NOS4A2,Joe Hill,4.07,96620,2013,4776,Horror,Yes,6.7,6025,2019,TV
+Heart-Shaped Box,Joe Hill,3.84,103989,2007,4673,Horror,No,NA,NA,NA,NA
+Bird Box,Josh Malerman,4.02,132163,2014,4598,Horror,Yes,6.6,262398,2018,Movie
+Christine,Stephen King,3.78,194692,1983,4410,Horror,Yes,6.7,68920,1983,Movie
+Needful Things,Stephen King,3.92,202405,1991,4408,Horror,Yes,6.3,21942,1993,Movie
+The Exorcist,William Peter Blatty,4.17,175231,1971,4253,Horror,Yes,8,352118,1973,Movie
+We Have Always Lived in the Castle,Shirley Jackson,3.99,109659,1962,4244,Horror,Yes,5.6,4480,2019,Movie
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.81,368237,1886,3986,Horror,Yes,7.6,12143,1931,Movie
+Night Shift,Stephen King,4,143463,1978,3954,Horror,Yes,5.7,45754,1984,Movie
+Let the Right One In,John Ajvide Lindqvist,4.06,86210,2004,3952,Horror,Yes,7.9,201795,2008,Movie
+Coraline,Neil Gaiman,4.07,462040,2002,3785,Horror,Yes,7.7,189299,2009,Movie
+Cell,Stephen King,3.65,187327,2006,3734,Horror,Yes,4.3,24387,2016,Movie
+Horns,Joe Hill,3.92,97994,2009,3711,Horror,Yes,6.5,74864,2013,Movie
+The Dead Zone,Stephen King,3.93,173360,1979,3691,Horror,Yes,7.2,59360,1983,Movie
+Firestarter,Stephen King,3.88,183615,1980,3646,Horror,Yes,6.1,28527,1984,Movie
+The Girl With All the Gifts,M.R. Carey,3.94,184021,2014,3549,Horror,Yes,6.6,52365,2016,Movie
+The Silence of the Lambs,Thomas  Harris,4.2,450493,1988,3345,Horror,Yes,8.6,1223657,1991,Movie
+Rosemary's Baby,Ira Levin,4,107587,1967,3332,Horror,Yes,8,185638,1968,Movie
+Bag of Bones,Stephen King,3.9,169030,1998,3311,Horror,Yes,5.8,8248,2011,TV
+The Tommyknockers,Stephen King,3.54,122685,1987,3269,Horror,Yes,5.4,10437,1993,TV
+Under the Dome,Stephen King,3.9,251351,2009,3239,Horror,Yes,6.6,99626,2013,TV
+Thinner,Richard Bachman,4.08,183939,2015,14629,Horror,Yes,5.8,27190,1996,Movie
+The Gunslinger,Stephen King,4.08,183939,2015,14629,Horror,Yes,5.6,122441,2017,Movie
+The Dark Half,Stephen King,4.08,183939,2015,14629,Horror,Yes,6,15434,1993,Movie
+The Passage,Justin Cronin,4.08,183939,2015,14629,Horror,Yes,7.4,10024,2019,TV
+Skeleton Crew,Stephen King,4.08,183939,2015,14629,Horror,Yes,7.1,274408,2007,Movie
+The Outsider,Stephen King,4.08,183939,2015,14629,Horror,Yes,7.9,50466,2020,TV
+Desperation,Stephen King,4.08,183939,2015,14629,Horror,Yes,5.3,10587,2006,TV
+Dreamcatcher,Stephen King,4.08,183939,2015,14629,Horror,Yes,5.5,87410,2003,Movie
+Insomnia,Stephen King,4.08,183939,2015,14629,Horror,No,NA,NA,NA,NA
+Something Wicked This Way Comes,Ray Bradbury,4.08,183939,2015,14629,Horror,Yes,6.8,8106,1983,Movie
+Gerald's Game,Stephen King,4.08,183939,2015,14629,Horror,Yes,6.6,82280,2017,Movie
+The Vampire Lestat,Anne Rice,4.08,183939,2015,14629,Horror,Yes,5.3,51489,2002,Movie
+The Picture of Dorian Gray,Oscar Wilde,4.08,183939,2015,14629,Horror,Yes,7.5,11348,1945,Movie
+A Head Full of Ghosts,Paul Tremblay,4.08,183939,2015,14629,Horror,No,NA,NA,NA,NA
+And Then There Were None,Agatha Christie,4.26,775425,1939,12763,Mystery,Yes,8,30267,2015,TV
+The Girl with the Dragon Tattoo,Stieg Larsson,4.14,2542430,2005,10591,Mystery,Yes,7.8,205277,2009,Movie
+Murder on the Orient Express,Agatha Christie,4.17,358392,1934,9995,Mystery,Yes,7.3,53550,1974,Movie
+Gone Girl,Gillian Flynn,4.07,2259214,2012,9991,Mystery,Yes,8.1,825586,2014,Movie
+The Girl on the Train,Paula Hawkins,3.92,2030573,2015,9216,Mystery,Yes,6.5,163662,2016,Movie
+The Da Vinci Code,Dan Brown,3.85,1885414,2003,9054,Mystery,Yes,6.6,390738,2006,Movie
+The Cuckoo's Calling,Robert Galbraith,3.87,466146,2013,7364,Mystery,Yes,8.1,2050,2018,TV
+Angels & Demons,Dan Brown,3.9,2613161,2000,6810,Mystery,Yes,6.7,266371,2009,Movie
+The Girl Who Played with Fire,Stieg Larsson,4.24,793401,2006,6082,Mystery,Yes,7.2,89088,2009,Movie
+In the Woods,Tana French,3.77,292123,2007,5948,Mystery,Yes,7.1,4854,2019,TV
+The Mysterious Affair at Styles,Agatha Christie,3.99,239268,1920,5833,Mystery,Yes,7.9,1504,1990,TV
+The Sweetness at the Bottom of the Pie,Alan Bradley,3.82,139025,2009,5481,Mystery,No,NA,NA,NA,NA
+A Study in Scarlet,Arthur Conan Doyle,4.16,312052,1887,5390,Mystery,Yes,9.1,27345,2010,TV
+The Murder of Roger Ackroyd,Agatha Christie,4.25,142123,1926,5090,Mystery,Yes,7.3,1669,2000,TV
+The Hound of the Baskervilles,Arthur Conan Doyle,4.12,245366,1901,5036,Mystery,Yes,7,8844,1959,Movie
+The Girl Who Kicked the Hornet's Nest,Stieg Larsson,4.22,631737,2007,4947,Mystery,Yes,7.3,66442,2009,Movie
+Sharp Objects,Gillian Flynn,3.97,643678,2006,4780,Mystery,Yes,8.2,62251,2018,TV
+One for the Money,Janet Evanovich,4.04,474564,1994,4654,Mystery,Yes,5.3,39889,2012,Movie
+The Silkworm,Robert Galbraith,4.04,208982,2014,4591,Mystery,Yes,7.95,569,2017,TV
+Still Life,Louise Penny,3.88,138000,2005,4585,Mystery,Yes,5.5,519,2013,TV
+Dark Places,Gillian Flynn,3.94,556814,2009,4524,Mystery,Yes,6.2,40762,2015,Movie
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,4.3,235191,1892,4329,Mystery,Yes,8.7,19138,1984,TV
+Death on the Nile,Agatha Christie,4.11,115977,1937,4122,Mystery,Yes,8,2700,2004,TV
+Murder at the Vicarage,Agatha Christie,4.06,138981,1930,4021,Mystery,Yes,7.3,1497,2004,TV
+The Lost Symbol,Dan Brown,3.71,507853,2009,3827,Mystery,No,NA,NA,NA,NA
+The 7½ Deaths of Evelyn Hardcastle,Stuart Turton,3.9,110671,2018,3733,Mystery,No,NA,NA,NA,NA
+The No. 1 Ladies' Detective Agency,Alexander McCall Smith,3.79,227289,1998,3726,Mystery,Yes,8.2,3043,2008,TV
+Rebecca,Daphne du Maurier,4.23,430358,1938,3679,Mystery,Yes,8.1,118252,1940,Movie
+The A.B.C. Murders,Agatha Christie,4.02,92761,1936,3654,Mystery,Yes,6.6,7431,2018,TV
+One of Us Is Lying,Karen M. McManus,4.05,186501,2017,3485,Mystery,No,NA,NA,NA,NA
+The Westing Game,Ellen Raskin,4.02,158012,1978,3483,Mystery,Yes,5.1,537,1997,TV
+The Shadow of the Wind,Carlos Ruiz Zafón,4.27,441744,2001,3414,Mystery,No,NA,NA,NA,NA
+The Woman in Cabin 10,Ruth Ware,3.7,347453,2016,3395,Mystery,No,NA,NA,NA,NA
+Career of Evil,Robert Galbraith,4.21,157326,2015,3370,Mystery,Yes,8.05,724,2018,TV
+The Beekeeper's Apprentice,Laurie R. King,4.07,68183,1994,3357,Mystery,No,NA,NA,NA,NA
+Maisie Dobbs,Jacqueline Winspear,3.92,79144,2003,3325,Mystery,No,NA,NA,NA,NA
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.88,1162901,2003,3291,Mystery,No,NA,NA,NA,NA
+A is for Alibi,Sue Grafton,3.85,157751,1982,3153,Mystery,No,NA,NA,NA,NA
+The Thirteenth Tale,Diane Setterfield,3.96,267700,2006,3105,Mystery,Yes,6.9,2290,2013,TV
+The Sign of Four,Arthur Conan Doyle,3.94,102226,1890,3083,Mystery,Yes,8.1,3330,1988,TV
+Crocodile on the Sandbank,Elizabeth Peters,4.02,59984,1975,3072,Mystery,No,NA,NA,NA,NA
+The Woman in the Window,A.J. Finn,3.94,410427,2018,3063,Mystery,Yes,NA,NA,NA,Movie
+The Lovely Bones,Alice Sebold,3.81,1975998,2002,3039,Mystery,Yes,6.7,153565,2009,Movie
+The Silent Patient,Alex Michaelides,4.09,406353,2019,2923,Mystery,No,NA,NA,NA,NA
+The Likeness,Tana French,4.06,117393,2008,2922,Mystery,Yes,7.1,4854,2019,TV
+Inferno,Dan Brown,3.85,455841,2013,2918,Mystery,No,NA,NA,NA,NA
+Two for the Dough,Janet Evanovich,4.11,145048,1996,2917,Mystery,Yes,6.2,152547,2016,Movie
+We Were Liars,E. Lockhart,3.84,438138,2014,2891,Mystery,No,NA,NA,NA,NA
+The Body in the Library,Agatha Christie,3.86,62350,1942,2873,Mystery,Yes,7.1,1699,2005,TV
+Big Little Lies,Liane Moriarty,4.27,714483,2014,2824,Mystery,Yes,8.5,142021,2017,TV
+Pride and Prejudice,Jane Austen,4.26,2902482,1813,11171,Romance,Yes,8.8,72919,1995,TV
+Twilight,Stephenie Meyer,3.59,4835716,2005,11044,Romance,Yes,5.2,413317,2008,Movie
+The Fault in Our Stars,John Green,4.21,3435800,2012,10236,Romance,Yes,7.7,334286,2014,Movie
+Fifty Shades of Grey,E.L. James,3.66,1886614,2011,8737,Romance,Yes,4.1,291858,2015,Movie
+New Moon,Stephenie Meyer,3.53,1423570,2006,7998,Romance,Yes,4.7,258954,2009,Movie
+Outlander,Diana Gabaldon,4.23,797401,1991,7628,Romance,Yes,8.8,66212,2014,TV
+Eclipse,Stephenie Meyer,3.69,1385850,2007,7605,Romance,Yes,5,221535,2010,Movie
+Breaking Dawn,Stephenie Meyer,3.69,1288200,2008,7207,Romance,Yes,5.2,442701,2011,Movie
+Me Before You,Jojo Moyes,4.26,1104632,2012,7090,Romance,Yes,7.4,197491,2016,Movie
+The Notebook,Nicholas Sparks,4.1,1300333,1996,6942,Romance,Yes,7.8,503993,2004,Movie
+Eleanor & Park,Rainbow Rowell,4.07,831726,2012,6924,Romance,No,NA,NA,NA,NA
+Jane Eyre,Charlotte Brontë,4.12,1583972,1847,6330,Romance,Yes,7.3,79119,2011,Movie
+Fifty Shades Darker,E.L. James,3.85,727633,2011,6158,Romance,Yes,4.6,88607,2017,Movie
+The Selection,Kiera Cass,4.14,844613,2012,5898,Romance,No,NA,NA,NA,NA
+The Kiss Quotient,Helen Hoang,3.89,122903,2018,5794,Romance,No,NA,NA,NA,NA
+Fifty Shades Freed,E.L. James,3.85,697570,2012,5496,Romance,Yes,4.5,52316,2018,Movie
+Beautiful Disaster,Jamie McGuire,4.1,534770,2011,5445,Romance,No,NA,NA,NA,NA
+Anna and the French Kiss,Stephanie Perkins,4.01,356675,2010,5286,Romance,No,NA,NA,NA,NA
+Fangirl,Rainbow Rowell,4.06,553598,2013,5183,Romance,No,NA,NA,NA,NA
+The Time Traveler's Wife,Audrey Niffenegger,3.97,1545662,2003,5172,Romance,Yes,7.1,137860,2009,Movie
+"Red, White & Royal Blue",Casey McQuiston,4.25,129645,2019,5097,Romance,No,NA,NA,NA,NA
+Romeo and Juliet,William Shakespeare,3.75,2013393,1595,5091,Romance,No,NA,NA,NA,NA
+The Hating Game,Sally  Thorne,4.15,126155,2016,5074,Romance,Yes,7.6,28717,1968,Movie
+To All the Boys I've Loved Before,Jenny Han,4.16,454391,2014,5018,Romance,Yes,7.2,79931,2018,Movie
+A Walk to Remember,Nicholas Sparks,4.18,658167,1999,4911,Romance,Yes,7.4,195523,2002,Movie
+Wuthering Heights,Emily Brontë,3.86,1307051,1847,4740,Romance,Yes,6,9096,2011,Movie
+Sense and Sensibility,Jane Austen,4.07,936068,1811,4656,Romance,Yes,7.6,98661,1995,Movie
+A Court of Thorns and Roses,Sarah J. Maas,4.24,426384,2015,4481,Romance,No,NA,NA,NA,NA
+The Elite,Kiera Cass,4.02,399169,2013,4226,Romance,No,NA,NA,NA,NA
+Emma,Jane Austen,4.01,631122,1815,4107,Romance,Yes,6.7,17441,2020,Movie
+Bared to You,Sylvia Day,4.18,446693,2012,3991,Romance,No,NA,NA,NA,NA
+Persuasion,Jane Austen,4.14,510329,1818,3949,Romance,Yes,7.5,13675,2007,TV
+Divergent,Veronica Roth,4.2,2825067,2011,3946,Romance,Yes,6.7,416461,2014,Movie
+City of Bones,Cassandra Clare,4.1,1575791,2007,3937,Romance,Yes,5.9,125652,2013,Movie
+The One,Kiera Cass,4.2,357147,2014,3885,Romance,No,NA,NA,NA,NA
+Dark Lover,J.R. Ward,4.19,282889,2005,3859,Romance,No,NA,NA,NA,NA
+The Hunger Games,Suzanne Collins,4.33,6218511,2008,3803,Romance,Yes,7.2,826629,2012,Movie
+The Night Circus,Erin Morgenstern,4.04,656319,2011,3664,Romance,No,NA,NA,NA,NA
+The Unhoneymooners,Christina Lauren,3.99,94450,2019,3620,Romance,No,NA,NA,NA,NA
+Wallbanger,Alice Clayton,4.06,172012,2012,3617,Romance,No,NA,NA,NA,NA
+Easy,Tammara Webber,4.09,212856,2012,3471,Romance,No,NA,NA,NA,NA
+The Rosie Project,Graeme Simsion,4.02,433537,2013,3398,Romance,No,NA,NA,NA,NA
+If I Stay,Gayle Forman,3.95,697173,2009,3394,Romance,Yes,6.7,113227,2014,Movie
+A Court of Mist and Fury,Sarah J. Maas,4.65,297146,2016,3376,Romance,No,NA,NA,NA,NA
+Hopeless,Colleen Hoover,4.3,259999,2012,3365,Romance,Yes,6.3,135471,2010,Movie
+Dear John,Nicholas Sparks,4.04,531309,2006,3365,Romance,No,NA,NA,NA,NA
+Dragonfly in Amber,Diana Gabaldon,4.32,278592,1992,3337,Romance,Yes,8.9,33668,2016,TV
+Simon vs. the Homo Sapiens Agenda,Becky Albertalli,4.3,269800,2015,3305,Romance,Yes,7.6,93246,2018,Movie
+Matched,Ally Condie,3.66,638060,2010,3283,Romance,No,NA,NA,NA,NA
+"Everything, Everything",Nicola Yoon,4.06,355087,2015,3262,Romance,Yes,6.4,31105,2017,Movie
+Ender's Game,Orson Scott Card,4.3,1101797,1985,15346,Science Fiction,Yes,6.6,219387,2013,Movie
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,4.22,1389125,1979,13921,Science Fiction,Yes,6.8,183532,2005,Movie
+Dune,Frank Herbert,4.23,717948,1965,12772,Science Fiction,Yes,6.5,120233,1984,Movie
+The Martian,Andy Weir,4.4,787976,2012,12009,Science Fiction,Yes,8,735116,2015,Movie
+Ready Player One,Ernest Cline,4.26,826432,2011,10602,Science Fiction,Yes,7.5,348885,2018,Movie
+Fahrenheit 451,Ray Bradbury,3.99,1621204,1953,10444,Science Fiction,Yes,4.9,16603,2018,Movie
+The Hunger Games,Suzanne Collins,4.33,6218511,2008,10306,Science Fiction,Yes,7.2,826629,2012,Movie
+1984,George Orwell,4.18,3019636,1949,10014,Science Fiction,Yes,7.1,64127,1984,Movie
+Brave New World,Aldous Huxley,3.99,1399633,1932,9029,Science Fiction,Yes,5.2,1852,1998,TV
+Foundation,Isaac Asimov,4.17,394904,1951,8496,Science Fiction,Yes,NA,NA,2021,TV
+Catching Fire,Suzanne Collins,4.29,2429943,2009,8105,Science Fiction,Yes,7.5,600197,2013,Movie
+Do Androids Dream of Electric Sheep?,Philip K. Dick,4.08,333557,1968,8046,Science Fiction,Yes,8.1,673320,1982,Movie
+Mockingjay,Suzanne Collins,4.04,2277865,2010,7589,Science Fiction,Yes,6.55,676831,2014,Movie
+The Time Machine,H.G. Wells,3.89,399541,1895,6690,Science Fiction,Yes,7.6,35183,1960,Movie
+Neuromancer,William Gibson,3.9,255774,1984,6466,Science Fiction,No,NA,NA,NA,NA
+"I, Robot",Isaac Asimov,4.2,267541,1950,6211,Science Fiction,Yes,7.1,488420,2004,Movie
+Divergent,Veronica Roth,4.2,2825067,2011,5707,Science Fiction,Yes,6.7,416461,2014,Movie
+Stranger in a Strange Land,Robert A. Heinlein,3.92,270246,1961,5613,Science Fiction,No,NA,NA,NA,NA
+The Handmaid's Tale,Margaret Atwood,4.11,1401127,1985,5557,Science Fiction,Yes,6,8400,1990,Movie
+Jurassic Park,Michael Crichton,4.03,785221,1990,5500,Science Fiction,Yes,8.1,837083,1993,Movie
+The Restaurant at the End of the Universe,Douglas Adams,4.21,226488,1980,5494,Science Fiction,No,NA,NA,NA,NA
+2001: A Space Odyssey,Arthur C. Clarke,4.15,250936,1968,5441,Science Fiction,Yes,8.3,582919,1968,Movie
+Leviathan Wakes,James S.A. Corey,4.26,159180,2011,5421,Science Fiction,Yes,8.5,93123,2015,TV
+The War of the Worlds,H.G. Wells,3.82,237494,1898,5376,Science Fiction,Yes,6.5,406794,2005,Movie
+Speaker for the Dead,Orson Scott Card,4.07,219262,1986,5368,Science Fiction,No,NA,NA,NA,NA
+Cinder,Marissa Meyer,4.14,654935,2012,5293,Science Fiction,No,NA,NA,NA,NA
+The Martian Chronicles,Ray Bradbury,4.14,204041,1949,5254,Science Fiction,Yes,6.5,2040,1980,TV
+Hyperion,Dan Simmons,4.24,178502,1989,5160,Science Fiction,No,NA,NA,NA,NA
+Slaughterhouse-Five,Kurt Vonnegut Jr.,4.07,1104239,1969,5153,Science Fiction,Yes,6.9,11859,1972,Movie
+The Left Hand of Darkness,Ursula K. Le Guin,4.07,114856,1969,4969,Science Fiction,No,NA,NA,NA,NA
+Snow Crash,Neal Stephenson,4.02,231810,1992,4886,Science Fiction,No,NA,NA,NA,NA
+The Giver,Lois Lowry,4.13,1727879,1993,4867,Science Fiction,Yes,6.5,109757,2014,Movie
+A Wrinkle in Time,Madeleine L'Engle,4,1031239,1962,4837,Science Fiction,Yes,4.2,39462,2018,Movie
+Old Man's War,John Scalzi,4.23,153206,2005,4835,Science Fiction,No,NA,NA,NA,NA
+Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.8,1131460,1818,4632,Science Fiction,Yes,6.4,50012,1994,Movie
+Foundation and Empire,Isaac Asimov,4.22,149008,1952,4603,Science Fiction,Yes,NA,NA,2021,TV
+Red Rising,Pierce Brown,4.26,231349,2014,4480,Science Fiction,No,NA,NA,NA,NA
+"Life, the Universe and Everything",Douglas Adams,4.2,191475,1982,4476,Science Fiction,No,NA,NA,NA,NA
+The Three-Body Problem,Liu Cixin,4.06,133459,2006,4454,Science Fiction,No,NA,NA,NA,NA
+Starship Troopers,Robert A. Heinlein,4.01,185451,1959,4352,Science Fiction,Yes,7.2,262501,1997,Movie
+The Forever War,Joe Haldeman,4.15,134211,1974,4264,Science Fiction,No,NA,NA,NA,NA
+Second Foundation,Isaac Asimov,4.26,138423,1953,4260,Science Fiction,Yes,NA,NA,2021,TV
+Dark Matter,Blake Crouch,4.1,239303,2016,4221,Science Fiction,No,NA,NA,NA,NA
+The Maze Runner,James Dashner,4.02,1014101,2009,4164,Science Fiction,Yes,6.8,406628,2014,Movie
+Dune Messiah,Frank Herbert,3.89,125232,1969,4119,Science Fiction,Yes,7.5,11709,2003,TV
+The Man in the High Castle,Philip K. Dick,3.61,166108,1962,4028,Science Fiction,Yes,8,80862,2015,TV
+Childhood's End,Arthur C. Clarke,4.11,125028,1953,4002,Science Fiction,Yes,6.9,10802,2015,TV
+The Host,Stephenie Meyer,3.84,876976,2008,4002,Science Fiction,Yes,5.9,109149,2013,Movie
+Rendezvous with Rama,Arthur C. Clarke,4.1,129712,1973,3911,Science Fiction,No,NA,NA,NA,NA
+Ancillary Justice,Ann Leckie,3.98,76938,2013,3910,Science Fiction,No,NA,NA,NA,NA
+The Girl on the Train,Paula Hawkins,3.92,2030573,2015,7003,Thriller,Yes,6.5,163662,2016,Movie
+Gone Girl,Gillian Flynn,4.07,2259214,2012,6840,Thriller,Yes,8.1,825586,2014,Movie
+The Da Vinci Code,Dan Brown,3.85,1885414,2003,6787,Thriller,Yes,6.6,390738,2006,Movie
+Angels & Demons,Dan Brown,3.9,2613161,2000,5834,Thriller,Yes,6.7,266371,2009,Movie
+The Girl Who Played with Fire,Stieg Larsson,4.24,793401,2006,4241,Thriller,Yes,7.2,89088,2009,Movie
+The Girl Who Kicked the Hornet's Nest,Stieg Larsson,4.22,631737,2007,3718,Thriller,Yes,7.3,66442,2009,Movie
+Sharp Objects,Gillian Flynn,3.97,643678,2006,3655,Thriller,Yes,8.2,62251,2018,TV
+The Lost Symbol,Dan Brown,3.71,507853,2009,3452,Thriller,No,NA,NA,NA,NA
+Dark Places,Gillian Flynn,3.94,556814,2009,3178,Thriller,Yes,6.2,40762,2015,Movie
+Inferno,Dan Brown,3.85,455841,2013,3017,Thriller,Yes,6.2,152547,2016,Movie
+The Woman in the Window,A.J. Finn,3.94,410427,2018,3001,Thriller,Yes,NA,NA,NA,Movie
+Digital Fortress,Dan Brown,3.66,549700,1998,2852,Thriller,No,NA,NA,NA,NA
+Deception Point,Dan Brown,3.71,580436,2001,2849,Thriller,No,NA,NA,NA,NA
+The Silent Patient,Alex Michaelides,4.09,406353,2019,2817,Thriller,No,NA,NA,NA,NA
+The Silence of the Lambs,Thomas  Harris,4.2,450493,1988,2338,Thriller,Yes,8.6,1223657,1991,Movie
+Before I Go to Sleep,S.J. Watson,3.89,280736,2011,2216,Thriller,Yes,6.3,69364,2014,Movie
+Dark Matter,Blake Crouch,4.1,239303,2016,2186,Thriller,No,NA,NA,NA,NA
+The Bourne Identity,Robert Ludlum,4.02,389345,1980,2076,Thriller,Yes,7.9,496274,2002,Movie
+Killing Floor,Lee Child,4.05,239699,1997,2068,Thriller,No,NA,NA,NA,NA
+The Woman in Cabin 10,Ruth Ware,3.7,347453,2016,2046,Thriller,No,NA,NA,NA,NA
+You,Caroline Kepnes,3.9,139710,2014,2042,Thriller,Yes,7.8,126431,2018,TV
+Red Dragon,Thomas  Harris,4.03,264283,1981,2042,Thriller,Yes,7.2,244298,2002,Movie
+Jurassic Park,Michael Crichton,4.03,785221,1990,2039,Thriller,Yes,8.1,837083,1993,Movie
+The Shining,Stephen King,4.23,1089256,1977,2002,Thriller,Yes,8.4,860493,1980,Movie
+Behind Closed Doors,B.A. Paris,3.95,280917,2016,1948,Thriller,No,NA,NA,NA,NA
+And Then There Were None,Agatha Christie,4.26,775425,1939,1941,Thriller,Yes,8,30267,2015,TV
+Mr. Mercedes,Stephen King,3.97,227344,2014,1709,Thriller,Yes,7.9,14722,2017,TV
+Into the Water,Paula Hawkins,3.57,263580,2017,1664,Thriller,No,NA,NA,NA,NA
+The Hunt for Red October,Tom Clancy,4.07,329602,1984,1650,Thriller,Yes,7.6,173685,1990,Movie
+Origin,Dan Brown,3.86,243702,2017,1612,Thriller,No,NA,NA,NA,NA
+Misery,Stephen King,4.17,479580,1987,1584,Thriller,Yes,7.8,177643,1990,Movie
+Shutter Island,Dennis Lehane,4.09,155695,2003,1582,Thriller,Yes,8.1,1086710,2010,Movie
+Pretty Girls,Karin Slaughter,3.99,164977,2015,1534,Thriller,No,NA,NA,NA,NA
+The Couple Next Door,Shari Lapena,3.78,309713,2016,1511,Thriller,No,NA,NA,NA,NA
+"In a Dark, Dark Wood",Ruth Ware,3.7,208766,2015,1495,Thriller,No,NA,NA,NA,NA
+In the Woods,Tana French,3.77,292123,2007,1483,Thriller,Yes,7.1,4854,2019,TV
+The Wife Between Us,Greer Hendricks,3.84,205329,2018,1416,Thriller,No,NA,NA,NA,NA
+Final Girls,Riley Sager,3.81,68380,2017,1397,Thriller,No,NA,NA,NA,NA
+A Time to Kill,John Grisham,4.07,692003,1989,1318,Thriller,Yes,7.5,127308,1996,Movie
+It,Stephen King,4.24,772421,1986,1308,Thriller,Yes,6.95,621578,2017,Movie
+The Elephant Tree,R.D. Ronald,4.12,54171,2010,1292,Thriller,No,NA,NA,NA,NA
+The Turn of the Key,Ruth Ware,3.94,103183,2019,1276,Thriller,No,NA,NA,NA,NA
+Lock Every Door,Riley Sager,3.93,57752,2019,1262,Thriller,No,NA,NA,NA,NA
+The Zombie Room,R.D. Ronald,4.14,55479,2012,1251,Thriller,No,NA,NA,NA,NA
+The Firm,John Grisham,4.02,552959,1991,1203,Thriller,Yes,6.8,113794,1993,Movie
+The Pelican Brief,John Grisham,4.01,363356,1992,1202,Thriller,Yes,6.6,74508,1993,Movie
+Sometimes I Lie,Alice Feeney,3.82,83808,2017,1199,Thriller,No,NA,NA,NA,NA
+Verity,Colleen Hoover,4.34,127826,2018,1158,Thriller,No,NA,NA,NA,NA
+Bird Box,Josh Malerman,4.02,132163,2014,1143,Thriller,Yes,6.6,262398,2018,Movie
+The Kind Worth Killing,Peter  Swanson,4.03,81964,2015,1131,Thriller,No,NA,NA,NA,NA
+The Hunger Games,Suzanne Collins,4.33,6218511,2008,30131,Young Adult,Yes,7.2,826629,2012,Movie
+Catching Fire,Suzanne Collins,4.29,2429943,2009,25602,Young Adult,Yes,7.5,600197,2013,Movie
+Mockingjay,Suzanne Collins,4.04,2277865,2010,24176,Young Adult,Yes,6.55,676831,2014,Movie
+The Fault in Our Stars,John Green,4.21,3435800,2012,20484,Young Adult,Yes,7.7,334286,2014,Movie
+Divergent,Veronica Roth,4.2,2825067,2011,20311,Young Adult,Yes,6.7,416461,2014,Movie
+Twilight,Stephenie Meyer,3.59,4835716,2005,19084,Young Adult,Yes,5.2,413317,2008,Movie
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.47,6801692,1997,17932,Young Adult,Yes,7.6,618908,2001,Movie
+Harry Potter and the Goblet of Fire,J.K. Rowling,4.56,2507462,2000,15521,Young Adult,Yes,7.7,526201,2005,Movie
+Harry Potter and the Deathly Hallows,J.K. Rowling,4.62,2723322,2007,15441,Young Adult,Yes,7.9,1196958,2010,Movie
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.57,2701079,1999,15432,Young Adult,Yes,7.9,528594,2004,Movie
+Harry Potter and the Chamber of Secrets,J.K. Rowling,4.43,2632214,1998,15236,Young Adult,Yes,7.4,531340,2002,Movie
+Harry Potter and the Order of the Phoenix,J.K. Rowling,4.5,2427330,2003,15230,Young Adult,Yes,7.5,489839,2007,Movie
+Harry Potter and the Half-Blood Prince,J.K. Rowling,4.57,2361600,2005,15116,Young Adult,Yes,7.6,453949,2009,Movie
+New Moon,Stephenie Meyer,3.53,1423570,2006,14319,Young Adult,Yes,4.7,258954,2009,Movie
+Insurgent,Veronica Roth,4.03,1136425,2012,14011,Young Adult,Yes,6.2,211600,2015,Movie
+Eclipse,Stephenie Meyer,3.69,1385850,2007,13786,Young Adult,Yes,5,221535,2010,Movie
+City of Bones,Cassandra Clare,4.1,1575791,2007,13491,Young Adult,Yes,5.9,125652,2013,Movie
+Breaking Dawn,Stephenie Meyer,3.69,1288200,2008,13078,Young Adult,Yes,5.2,442701,2011,Movie
+Looking for Alaska,John Green,4.03,1083144,2005,12136,Young Adult,Yes,8.1,5853,2019,TV
+The Perks of Being a Wallflower,Stephen Chbosky,4.2,1218446,1999,11937,Young Adult,Yes,8,448272,2012,Movie
+Eleanor & Park,Rainbow Rowell,4.07,831726,2012,11613,Young Adult,No,NA,NA,NA,NA
+The Giver,Lois Lowry,4.13,1727884,1993,11001,Young Adult,Yes,6.5,109757,2014,Movie
+Allegiant,Veronica Roth,3.63,804231,2013,10682,Young Adult,Yes,5.7,104576,2016,Movie
+Cinder,Marissa Meyer,4.14,654935,2012,10533,Young Adult,No,NA,NA,NA,NA
+The Book Thief,Markus Zusak,4.37,1777231,2005,10240,Young Adult,Yes,7.6,124630,2013,Movie
+The Maze Runner,James Dashner,4.02,1014101,2009,10143,Young Adult,Yes,6.8,406628,2014,Movie
+Paper Towns,John Green,3.81,885920,2008,9947,Young Adult,Yes,6.3,92879,2015,Movie
+The Lightning Thief,Rick Riordan,4.25,1920210,2005,9632,Young Adult,Yes,5.9,173161,2010,Movie
+Thirteen Reasons Why,Jay Asher,3.93,753933,2007,9501,Young Adult,Yes,7.7,244380,2017,TV
+Fangirl,Rainbow Rowell,4.06,553598,2013,9324,Young Adult,No,NA,NA,NA,NA
+Miss Peregrine's Home for Peculiar Children,Ransom Riggs,3.91,945982,2011,9308,Young Adult,Yes,6.7,150930,2016,Movie
+City of Ashes,Cassandra Clare,4.18,719748,2008,9291,Young Adult,Yes,6.6,50212,2016,TV
+City of Glass,Cassandra Clare,4.32,772767,2009,8566,Young Adult,Yes,6.6,50212,2016,TV
+The Hate U Give,Angie Thomas,4.52,450140,2017,8478,Young Adult,Yes,7.4,27885,2018,Movie
+If I Stay,Gayle Forman,3.95,697173,2009,7964,Young Adult,Yes,6.7,113227,2014,Movie
+Speak,Laurie Halse Anderson,4.02,477871,1999,7859,Young Adult,Yes,7.3,24376,2004,Movie
+Matched,Ally Condie,3.66,638060,2010,7854,Young Adult,No,NA,NA,NA,NA
+The Selection,Kiera Cass,4.14,844613,2012,7834,Young Adult,No,NA,NA,NA,NA
+Uglies,Scott Westerfeld,3.86,548880,2005,7754,Young Adult,No,NA,NA,NA,NA
+The Golden Compass,Philip Pullman,3.98,1253753,1995,7631,Young Adult,Yes,6.1,175967,2007,Movie
+Clockwork Angel,Cassandra Clare,4.33,641081,2010,7433,Young Adult,No,NA,NA,NA,NA
+Throne of Glass,Sarah J. Maas,4.21,559268,2012,7335,Young Adult,No,NA,NA,NA,NA
+We Were Liars,E. Lockhart,3.84,438138,2014,7200,Young Adult,No,NA,NA,NA,NA
+Daughter of Smoke & Bone,Laini Taylor,4.02,299143,2011,7123,Young Adult,No,NA,NA,NA,NA
+The Raven Boys,Maggie Stiefvater,4.06,254143,2012,7089,Young Adult,No,NA,NA,NA,NA
+Graceling,Kristin Cashore,4.08,373461,2008,7077,Young Adult,No,NA,NA,NA,NA
+Shadow and Bone,Leigh Bardugo,4.01,281188,2012,6959,Young Adult,Yes,NA,NA,2020,TV
+Scarlet,Marissa Meyer,4.28,298912,2013,6946,Young Adult,No,NA,NA,NA,NA
+The Outsiders,S.E. Hinton,4.1,907791,1967,6924,Young Adult,Yes,7.1,72792,1983,Movie
+Vampire Academy,Richelle Mead,4.13,535601,2007,6761,Young Adult,Yes,5.5,50910,2014,Movie
